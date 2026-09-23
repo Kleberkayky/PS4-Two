@@ -31,3 +31,5 @@ services:
         condition: service_healthy
 volumes:
   postgres_data:
+
+O SOLADOR SABE O CAMINHO
